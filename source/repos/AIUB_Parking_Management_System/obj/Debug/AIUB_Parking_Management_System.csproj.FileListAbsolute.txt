@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\bin\Debug\AIUB_Parking_Management_System.exe.config
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\bin\Debug\AIUB_Parking_Management_System.exe
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\bin\Debug\AIUB_Parking_Management_System.pdb
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\obj\Debug\AIUB_Parking_Management_System.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\obj\Debug\AIUB_Parking_Management_System.Properties.Resources.resources
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\obj\Debug\AIUB_Parking_Management_System.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\obj\Debug\AIUB_Parking_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\obj\Debug\AIUB_Parking_Management_System.exe
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\obj\Debug\AIUB_Parking_Management_System.pdb
+C:\Users\ASUS\source\repos\AIUB_Parking_Management_System\obj\Debug\AIUB_Parking_Management_System.LoginForm.resources
