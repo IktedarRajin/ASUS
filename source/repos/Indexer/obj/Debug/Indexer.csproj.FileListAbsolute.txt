@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\ASUS\source\repos\Indexer\bin\Debug\Indexer.exe
+C:\Users\ASUS\source\repos\Indexer\bin\Debug\Indexer.pdb
+C:\Users\ASUS\source\repos\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Indexer\obj\Debug\Indexer.exe
+C:\Users\ASUS\source\repos\Indexer\obj\Debug\Indexer.pdb

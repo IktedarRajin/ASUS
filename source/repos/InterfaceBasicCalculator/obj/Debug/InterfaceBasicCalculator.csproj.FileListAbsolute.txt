@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\InterfaceBasicCalculator\bin\Debug\InterfaceBasicCalculator.exe.config
+C:\Users\ASUS\source\repos\InterfaceBasicCalculator\bin\Debug\InterfaceBasicCalculator.exe
+C:\Users\ASUS\source\repos\InterfaceBasicCalculator\bin\Debug\InterfaceBasicCalculator.pdb
+C:\Users\ASUS\source\repos\InterfaceBasicCalculator\obj\Debug\InterfaceBasicCalculator.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\InterfaceBasicCalculator\obj\Debug\InterfaceBasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InterfaceBasicCalculator\obj\Debug\InterfaceBasicCalculator.exe
+C:\Users\ASUS\source\repos\InterfaceBasicCalculator\obj\Debug\InterfaceBasicCalculator.pdb
